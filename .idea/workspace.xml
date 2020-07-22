@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cd80c24-b42d-4981-8d10-32a95220bada" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eD4QLKW9A9Ve3iKAVTpL6ahFB6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mmdetection" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cd80c24-b42d-4981-8d10-32a95220bada" name="Default Changelist" comment="" />
+      <created>1593842811998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593842811998</updated>
+      <workItem from="1593842815128" duration="762000" />
+      <workItem from="1593843859693" duration="26107000" />
+      <workItem from="1594010313922" duration="46034000" />
+      <workItem from="1594119269911" duration="39690000" />
+      <workItem from="1594221041640" duration="24382000" />
+      <workItem from="1594711182078" duration="3621000" />
+      <workItem from="1594714824814" duration="24005000" />
+      <workItem from="1594801648900" duration="21639000" />
+      <workItem from="1595315163870" duration="30116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594720576939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594720576939" />
+    <state x="690" y="219" key="FileChooserDialogImpl" timestamp="1595387422813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="219" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1595387422813" />
+    <state x="491" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594226397299" />
+    <state x="345" y="63" key="SettingsEditor" timestamp="1594720599976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="63" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594720599976" />
+    <state x="613" y="187" width="675" height="655" key="StructurePopup" timestamp="1595383124282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="187" width="675" height="655" key="StructurePopup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1595383124282" />
+    <state x="577" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1595315165409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="304" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1595315165409" />
+    <state x="838" y="188" key="ftp.server.browser" timestamp="1594107955964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="188" key="ftp.server.browser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594107955964" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1594031065031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594031065031" />
+  </component>
+</project>
